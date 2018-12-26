@@ -69,7 +69,7 @@ list_profiles()
 
 ## Deleting your profiles
 
-You can delete one or more profiles using delete_profile().
+You can delete one or more profiles using `delete_profile()`.
 
 ``` r
 # delete default profile
