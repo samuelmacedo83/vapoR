@@ -1,7 +1,7 @@
 Package: vapoR
 Type: Package
 Title: Crawler the steam's webpage
-Version: 0.1.0
+Version: 0.1.0.9000
 Author: Samuel Macêdo
 Maintainer: Samuel Macêdo <samuelmacedo@recife.ifpe.edu.br>
 Description: This package provides a crawler for steam website. With this 
